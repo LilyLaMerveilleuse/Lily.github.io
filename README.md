@@ -3,11 +3,6 @@
 |![image](https://github.com/LilyLaMerveilleuse/Lily.github.io/assets/154447041/4b0bf435-d784-4c11-a364-32116305bc87)|![image](https://github.com/LilyLaMerveilleuse/Lily.github.io/assets/154447041/2ed2bff6-a81d-4d68-89a7-1aa92b2822df)|![image](https://github.com/LilyLaMerveilleuse/Lily.github.io/assets/154447041/088f6f8a-c4ca-4bb4-b361-860688769cac)|![image](https://github.com/LilyLaMerveilleuse/Lily.github.io/assets/154447041/aa80f0a8-445e-4426-8832-35ef695ccc62)|![image](https://github.com/LilyLaMerveilleuse/Lily.github.io/assets/154447041/d33b210a-9361-4885-ab3e-1d180a67767a)|![image](https://github.com/LilyLaMerveilleuse/Lily.github.io/assets/154447041/717c7346-37fc-4f41-85d6-fa0d72ae107f)|
 | ------ | ------ | ------ | ------ | ------ | ------ |
 
-
-
-
-﻿
-
 - NetBeans: Environnement de développement intégré (IDE) utilisé pour ce projet
 - HTML: Langage de description utilisé pour concevoir les pages web
 - CSS: Langage de style utilisé pour mettre en forme les pages web
@@ -32,3 +27,6 @@
 ### 4. Pour mon identité numérique
 - Cela fait un point d'entrée professionnel à donner lorsque je postule à un stage, à une poursuite d'études ou à un emploi
 - Cela permettra de me faire référencer par les moteurs de recherches (là aussi si on me recherche suite à ma rencontre ou à la reception de mon CV)
+
+banane
+poire
